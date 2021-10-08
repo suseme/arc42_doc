@@ -1,2 +1,4 @@
-# arch42_doc
-Documentation of arch42
+arc42 Documents
+===
+
+[https://arc42.org](https://arc42.org)
